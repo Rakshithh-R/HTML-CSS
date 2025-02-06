@@ -1,0 +1,26 @@
+1A) Create a button with the text "click" inside
+    <button>Click</button>
+
+1B) Create 2 button. One with your name and another with your fav food.
+    <button>Rakshith</button>
+    <button>Chicken Biryani</button>
+
+1C) Create a paragraph with the text "Hello, World!" inside.
+    <p>Hello, World!</p>
+
+1D) Create a paragraph below the previous paragraph and write something you did today.
+    <p>Hello, World!</p>
+    <p>Today I learnt about html attributes, elements and some tags</p> 
+
+1E) Create a link to google.com
+    <a href="https://www.google.com>Search with Google</a>
+
+1F) Make the link from the previous exercise open in new tab
+    <a href="https://www.google.com target="_blank">Search with Google</a>
+
+1G) Try to copy this design using html
+    <a href="https://www.amazon.com" target="_blank">Back to Amazon</a>
+    <p>Nike Black Running Shoes</p>
+    <p>$39 - in stock.</p>
+    <p>Free delivery tomorrow</p>
+    <button style="margin-right: 10px">Add to Cart</button><button>Buy now</button>
