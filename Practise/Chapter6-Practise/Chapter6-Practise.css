@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+}
+.model{
+  font-weight: bold;
+  font-size: 24px; 
+  margin-bottom: 8px;
+}
+.description{
+  font-size: 24px; 
+  margin-top: 0px;
+}
+.description span{
+  text-decoration: underline;
+}

@@ -1,0 +1,74 @@
+.super-car-a{
+  width: 200px;
+  border-radius: 25px;
+}
+.super-car-b{
+  height: 300px;
+  width: 300px;
+  object-fit: cover;
+  object-position: center;
+}
+.super-car-c{
+  height: 300px;
+  width: 300px;
+  border-radius: 150px;
+}
+.text-box{
+  border: 1px solid rgb(200, 200, 200);;
+  border-radius: 4px;
+  padding: 8px;
+  font-size: 16px;
+}
+.search-box{
+  font-size: 16px;
+  width: 300px;
+  border: none;
+  border-radius: 100px;
+  box-shadow: 0 1px 5px rgb(0, 0, 0, 0.5);
+  padding: 10px;
+}
+
+.email{
+  color: rgb(44, 44, 44);
+  margin-bottom: 8px;
+}
+.email-placeholder{
+  margin-top: 0px;
+  padding: 8px;
+  border: 1.5px solid rgb(52, 52, 52);
+  border-radius: 3px;
+  width: 365px;
+}
+.btn {
+  background-color: rgb(94, 94, 255);
+  border: none;
+  color: white;
+  font-size: 18px;
+  width: 370px;
+  padding: 15px;
+  border-radius: 100px;
+}
+
+.super-car{
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  vertical-align: middle;
+}
+
+.twitter-text-box {
+  font-size: 18px;
+  border: none;
+  width: 300px;
+  vertical-align: middle;
+}
+.tweet-btn {
+  background-color: rgb(29, 155, 240);
+  color: white;
+  border: none;
+  padding: 8px 16px 8px 16px;
+  border-radius: 30px;
+  font-size: 16px;
+  font-weight: bold;
+  vertical-align: middle;
+}
