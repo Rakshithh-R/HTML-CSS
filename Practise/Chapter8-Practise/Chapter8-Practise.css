@@ -1,0 +1,86 @@
+input {
+    display: block;
+    margin: 5px;
+}
+
+.customer-support p{
+    display: inline-block;
+    width: 200px;
+    vertical-align: middle;
+}
+
+.search-box{
+    font-size: 16px;
+    width: 300px;
+    border: none;
+    border-radius: 100px;
+    box-shadow: 0 1px 5px rgb(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+
+.g-image img{
+    margin: 0px 100px;
+    width: 100px;
+}
+
+.sign-up input{
+    border: 1px solid rgb(178, 178, 178);
+    padding: 4px 8px 4px 8px;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+.first-name, .last-name{
+    width: 160px;
+    display: inline-block;
+}
+
+.email {
+    display: block;
+    width: 350px;
+}
+
+.sign-up button{
+    width: 370px;
+    background-color: rgb(39, 39, 255);
+    color: white;
+    font-size: 18px;
+    border: none;
+    padding: 8px 12px 8px 12px;
+    margin-left: 5px;
+    border-radius: 10px;
+}
+
+.uber p {
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 28px;
+    margin-bottom: 8px;
+    margin-left: 5px;
+    width: 350px;
+}
+
+
+.uber input {
+    width: 250px;
+    margin-top: 0px;
+    margin-bottom: 8px;
+    padding: 8px 16px;
+    border-radius: 4px;
+    border: none;
+    background-color: rgb(210, 210, 210);
+    color: grey;
+}
+
+.uber button {
+    font-size: 12px;
+    margin-left: 5px;
+    padding: 10px 14px;
+    border: none;
+}
+
+.request{
+    background-color: black;
+    color: white;
+}
