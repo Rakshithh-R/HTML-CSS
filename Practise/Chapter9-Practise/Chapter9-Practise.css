@@ -1,0 +1,156 @@
+.red-box{
+  width: 100px;
+  height: 100px;
+  background-color: red;
+}
+
+.green-circle{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  border-radius: 50px;
+}
+
+.wrap-div{
+  border: 1.5px solid rgb(220, 220, 220);
+  width: 300px;
+  padding: 0px 0px 10px 10px;
+}
+
+.youtube-music{
+  width: 360px;
+  background-color: black;
+  font-family: Arial;
+  padding: 10px 0px 10px 10px;
+}
+
+.header-youtube{
+  font-weight: bold;
+  font-size: 24px;
+  color: white;
+  margin-bottom: 8px;
+}
+
+.description-youtube{
+  color: grey;
+  margin-top: 0px;
+}
+
+.tweet{
+  width: 450px;
+  padding: 10px 15px;
+  box-shadow: 0px 5px 10px rgb(173, 173, 173);
+  border-radius: 10px;
+}
+
+.car-image{
+  height: 30px;
+  width: 30px;
+  border-radius: 15px;
+  vertical-align: middle;
+}
+
+.input-text{
+  border: none;
+  font-size: 16px;
+  vertical-align: middle;
+  width: 320px;
+  margin-left: 10px;
+}
+
+.tweet-btn{
+  border: none;
+  background-color: rgb(47, 47, 203);
+  color: white;
+  font-weight: bold;
+  padding: 6px 10px;
+  border-radius: 16px;
+  vertical-align: middle;
+}
+
+.fb-design{
+  width: 150px;
+  height: 180px;
+  margin-top: 0px;
+  box-shadow: 0px 5px 10px rgb(173, 173, 173);
+}
+
+.profile-pic{
+  width: 150px;
+  margin-bottom: 4px;
+}
+
+.car-name{
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 16px;
+  margin: 0px 0px 8px 4px;
+}
+
+.car-top-speed{
+  font-family: Arial;
+  font-size: 12px;
+  margin: 0px 0px 8px 4px;
+  color: grey;
+}
+
+.buy-button{
+  background-color: rgb(73, 73, 255);
+  color: white;
+  font-weight: bold;
+  margin: 0px 0px 8px 6px;
+  border: none;
+  padding: 5px 10px;
+}
+
+.fb-design1, .fb-design2, .fb-design3 {
+  width: 150px;
+  height: 180px;
+  box-shadow: 0px 5px 10px rgb(173, 173, 173);
+  vertical-align: top;
+  display: inline-block;
+  margin: 0px 8px;
+}
+
+.profile-pic2{
+  width: 150px;
+  height: 84px;
+  margin-bottom: 4px;
+}
+
+.profile-pic3{
+  width: 150px;
+  height: 84px;
+  margin-bottom: 4px;
+}
+
+.google-search{
+  text-align: center;
+  width: 400px;
+}
+
+.google-image{
+  width: 200px;
+}
+
+.search-box{
+  font-size: 14px;
+  border: none;
+  padding: 8px 12px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+  width: 400px;
+  border-radius: 20px;
+  margin-top: 2px;
+  margin-bottom: 20px;
+}
+
+.search-btn{
+  border: none;
+  padding: 10px 15px;
+  margin-right: 6px;
+}
+
+.lucky-btn{
+  border: none;
+  padding: 10px 15px;
+}
