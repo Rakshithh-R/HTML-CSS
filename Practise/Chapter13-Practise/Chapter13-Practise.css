@@ -1,0 +1,166 @@
+.flex-box{
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
+
+.column1{
+  width: 100px;
+  background-color: lightblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.item1 {
+  background-color: black;
+  color: white;
+}
+
+
+.column2{
+  width: 200px;
+  background-color: lightpink;
+}
+
+.row-flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.row2{
+  background-color: black;
+  color: white;
+}
+
+.container{
+  font-family: Arial;
+  width: 500px;
+  border: 0px solid rgb(211, 211, 211);
+  box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.5);
+  border-radius: 5px;
+  padding: 8px 10px 18px 10px;
+}
+
+.inboxes{
+  color: rgb(194, 194, 194);
+  margin-bottom: 15px;
+}
+
+.content{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.email{
+  margin-right: 10px;
+}
+
+.profile-picture{
+  height: 70px;
+  width: 70px;
+  border-radius: 35px;
+}
+
+.email-content{
+  flex: 1;
+}
+
+.email-title-time{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 3px;
+
+}
+
+.email-title{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.email-time{
+  font-size: 16px;
+  color: rgb(194, 194, 194);
+}
+
+.email-subject{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.email-message{
+  color: rgb(194, 194, 194);
+}
+
+.container1 {
+  display: flex;
+  flex-direction: row;
+  width: 420px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+.profile{
+  margin-right: 10px;
+}
+
+.profile-pic{
+  height: 70px;
+  width: 70px;
+  border-radius: 35px;
+}
+
+.profile-name-id{
+  display: flex;
+  flex-direction: row;
+}
+
+.profile-name{
+  font-size: 16px;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.profile-id{
+  font-size: 16px;
+  color: rgb(194, 194, 194);
+}
+
+.content-info {
+  line-height: 20px;
+  margin-bottom: 15px;
+}
+
+.video-content{
+  border: 2px solid rgb(194, 194, 194);
+  border-radius: 5px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.grey-area{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(194, 194, 194);
+  margin-right: 10px;
+}
+
+.youtube-info{
+  flex: 1;
+}
+
+.youtube-header {
+  color: rgb(194, 194, 194);
+  margin-bottom: 3px;
+}
+
+.youtube-backend {
+  line-height: 22px;
+}
