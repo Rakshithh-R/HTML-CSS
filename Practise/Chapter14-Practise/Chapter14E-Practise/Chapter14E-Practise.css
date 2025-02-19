@@ -1,0 +1,37 @@
+.container{
+  position: fixed;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.profile{
+  width: 70px;
+  height: 70px;
+  border-radius: 35px;
+  margin-right: 10px;
+}
+
+.name{
+  width: 300px;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.add-btn{
+  background-color: rgb(57, 57, 239);
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
+
+.msg-btn{
+  background-color: rgb(195, 195, 195);
+  font-size: 16px;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
